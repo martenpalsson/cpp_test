@@ -1,5 +1,5 @@
 # cpp test
-A test for building a C++ program in a docker container and outputting the resulting binary
+A test for building a windows compatible C++ program in a docker container and outputting the resulting binary
 
 
 # Build container
